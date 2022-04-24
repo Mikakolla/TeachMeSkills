@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eec29602-262e-44d7-bfac-b217f82c4c25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lessons6/Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +12,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="package-info" />
         <option value="Enum" />
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,39 +44,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ControlStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Homewrk2.ControlStructures" />
-      <module name="TeachMeSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.Homewrk2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Homewrk2.Cycle" />
-      <module name="TeachMeSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.Homewrk2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.main">
     <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homework3.Homework3" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Homework.Homework3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework5.CreditCard.Homework5" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.Homework5.CreditCard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework5.Computer.main" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.Homework5.Computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.VectorController" />
         <item itemvalue="Application.Homework3" />
-        <item itemvalue="Application.Cycle" />
-        <item itemvalue="Application.ControlStructures" />
       </list>
     </recent_temporary>
   </component>
