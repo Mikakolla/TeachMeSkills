@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eec29602-262e-44d7-bfac-b217f82c4c25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lessons6/Vector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -28,6 +31,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="27c3GBUUpnaArtxB0Rf9KMG3mTV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Homework3">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ControlStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homewrk2.ControlStructures" />
       <module name="TeachMeSkills" />
@@ -65,19 +71,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Homewrk1.Homework1" />
-      <module name="TeachMeSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Homework.Homewrk1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homework3.Homework3" />
       <module name="TeachMeSkills" />
@@ -91,12 +84,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons7.Main" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.Lessons7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons6.VectorController" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.Lessons6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.VectorController" />
         <item itemvalue="Application.Homework3" />
         <item itemvalue="Application.Cycle" />
         <item itemvalue="Application.ControlStructures" />
-        <item itemvalue="Application.Homework1" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +130,18 @@
       <updated>1649605449109</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TeachMeSkills$ControlStructures.ic" NAME="ControlStructures Coverage Results" MODIFIED="1649709051907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
