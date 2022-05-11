@@ -12,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,15 +42,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Homework3.Homework3" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework5.CreditCard.Homework5" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.Homework3.*" />
+          <option name="PATTERN" value="Homework.Homework5.CreditCard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Homework.Homework5.CreditCard.Homework5" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework6.Task1.Main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Homework.Homework5.CreditCard.*" />
+          <option name="PATTERN" value="Homework.Homework6.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons6.VectorController" />
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons8.main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.Lessons6.*" />
+          <option name="PATTERN" value="Lessons.Lessons8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Homework5" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.VectorController" />
-        <item itemvalue="Application.Homework3" />
       </list>
     </recent_temporary>
   </component>

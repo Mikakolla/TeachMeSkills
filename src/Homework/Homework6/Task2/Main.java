@@ -7,6 +7,6 @@ public class Main {
         Director director = new Director("Директор");
         Worker worker = new Worker("Рабочий");
         Accountant accountant = new Accountant("Бухгалтер");
-        
+
     }
 }
