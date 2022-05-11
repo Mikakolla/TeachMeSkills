@@ -45,7 +45,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homework5.CreditCard.Homework5" />
       <module name="TeachMeSkills" />
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons7.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.Homework7.Task1.Main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.Lessons7.*" />
+          <option name="PATTERN" value="Homework.Homework7.Task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Homework5" />
         <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
