@@ -1,9 +1,6 @@
 package Homework.homework10;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -13,14 +10,14 @@ public class Main {
         UserInput userInput = new UserInput();
         UserInputValidationService userInputValidationService = new UserInputValidationService();
 
-        String input;
+        System.out.println("Введите текст");
+        String input = console.nextLine();
 
-        while (true) {
+        while (!Objects.equals(input, "exit")) {
+            userInputValidationService.validate(userInput, input);
 
             System.out.println("Введите текст");
-            input = console.nextLine();
-
-            userInputValidationService.validate(input, userInput);
+            input = console.next();
         }
     }
 }

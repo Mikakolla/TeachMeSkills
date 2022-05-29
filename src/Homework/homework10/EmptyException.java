@@ -1,12 +1,6 @@
 package Homework.homework10;
 
-public class EmptyException extends Exception{
-
-    public UserInput userInput;
-
-    public EmptyException(UserInput userInput) {
-        this.userInput = userInput;
-    }
+public class EmptyException extends RuntimeException{
 
         @Override
     public String getMessage() {

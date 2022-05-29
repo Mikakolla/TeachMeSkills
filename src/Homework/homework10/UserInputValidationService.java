@@ -2,44 +2,22 @@ package Homework.homework10;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 public class UserInputValidationService {
 
-    public static void validate(String input, UserInput userInput) {
+    public void validate(UserInput userInput, String input){
 
-        List<String> allInput;
-
-        if (userInput.getInput() != null){
-            allInput = userInput.getInput();
+        if (Objects.equals(input, "get")){
+            System.out.println(userInput.getAndRemoveElInput());
         } else {
-            allInput = new ArrayList<>();
-        }
-
-        if (input.equals("exit")) {
-            System.exit(0);
-        } else if (input.equals("get")) {
-            if (allInput.isEmpty()){
-
-                try {
-                    throw new EmptyException(userInput);
-                } catch (EmptyException e) {
-                    e.printStackTrace();
-                }
-
-            } else {
-                System.out.println(allInput.get(0));
-                allInput.remove(0);
-            }
-        } else if (allInput.size() == 4) {
             try {
-                throw new LengthException(userInput);
+                userInput.addElement(input);
             } catch (LengthException e) {
                 e.printStackTrace();
             }
-        } else {
-            allInput.add(input);
-            userInput.setInput(allInput);
-            System.out.println("Запись добавлена");
+
         }
+
     }
 }

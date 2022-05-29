@@ -1,15 +1,9 @@
 package Homework.homework10;
 
-public class LengthException extends Exception{
-
-    public UserInput userInput;
-
-    public LengthException(UserInput userInput) {
-        this.userInput = userInput;
-    }
+public class LengthException extends RuntimeException{
 
     @Override
     public String getMessage() {
-        return "Ошибка: превышение лимита длинны поля. Воспользуйтесь методом get, чтобы удалить элемент";
+        return "Ошибка: превышение лимита длины поля. Воспользуйтесь методом get, чтобы удалить элемент";
     }
 }
