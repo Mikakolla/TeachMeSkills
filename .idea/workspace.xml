@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eec29602-262e-44d7-bfac-b217f82c4c25" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eec29602-262e-44d7-bfac-b217f82c4c25" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +41,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Homework/homework18/withLock" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\TeachMeSkills\src\Homework\homework18\withLock" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Homework5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homework5.CreditCard.Homework5" />
       <module name="TeachMeSkills" />
@@ -85,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.homework18.withLock.Main" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework.homework18.withLock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Homework.Homework9.Main" />
       <module name="TeachMeSkills" />
@@ -98,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lessons8.main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework.homework18.withoutLock.Main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.Lessons8.*" />
+          <option name="PATTERN" value="Homework.homework18.withoutLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Homework5" />
-        <item itemvalue="Application.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +168,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TeachMeSkills$ControlStructures.ic" NAME="ControlStructures Coverage Results" MODIFIED="1649709051907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Homework.Homewrk2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TeachMeSkills$Main__3_.ic" NAME="Main (3) Coverage Results" MODIFIED="1662907049194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Homework.homework18.*</FILTER>
     </SUITE>
   </component>
 </project>
